@@ -1,0 +1,11 @@
+class Solution(object):
+    def maxCoins(self,piles):
+        piles.sort(reverse=True) 
+        coins = 0
+        i = 1 
+
+        while i < len(piles) * 2 / 3:
+            coins += piles[i]
+            i += 2  
+
+        return coins
