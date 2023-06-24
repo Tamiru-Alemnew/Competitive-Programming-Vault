@@ -1,0 +1,35 @@
+class Solution:
+    def rotateRight(self, head: Optional[ListNode], k: int) -> Optional[ListNode]:
+        # Check for special cases
+        if not head or k == 0:
+            return head
+
+        length = 1
+        current = head
+        last = head
+
+        while current.next:
+            length += 1
+            last = last.next
+            current = current.next
+
+        # Check if the length is 1
+        if length == 1:
+            return head
+
+        # Reduce k to its modulo with the length
+        if k >= length:
+            k = k % length
+
+        if k == 0:
+            return head
+
+        newLast = head
+        for _ in range(length - k - 1):
+            newLast = newLast.next
+
+        newHead = newLast.next
+        last.next = head
+        newLast.next = None
+
+        return newHead
