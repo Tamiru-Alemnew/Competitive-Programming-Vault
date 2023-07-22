@@ -1,0 +1,11 @@
+n, k = map(int, input().split())
+l1 = list(map(int, input().split()))
+l2 = list(map(int, input().split()))
+i = 0
+ans = []
+for j in range(len(l2)):
+    while i < len(l1) and l2[j] > l1[i]:
+        i += 1
+    ans.append(i)
+for i in ans:
+    print(i,end=" ")
