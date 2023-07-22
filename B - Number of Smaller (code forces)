@@ -7,5 +7,4 @@ for j in range(len(l2)):
     while i < len(l1) and l2[j] > l1[i]:
         i += 1
     ans.append(i)
-for i in ans:
-    print(i,end=" ")
+print(*ans)
