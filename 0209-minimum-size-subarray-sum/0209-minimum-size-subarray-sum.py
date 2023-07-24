@@ -2,7 +2,7 @@ class Solution:
     def minSubArrayLen(self, target: int, nums: List[int]) -> int:
        
         left , right = 0 , 0
-        ans = 10000000000
+        ans = float('inf')
         
         if sum(nums) < target:
             return 0
