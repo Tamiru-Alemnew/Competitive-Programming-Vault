@@ -1,0 +1,14 @@
+T = int(input())
+for _ in range(T):
+    n = int(input())
+    x_list = list(map(int, input().split()))
+
+    P, N = [0, 0], [0, 0]
+
+    for x in x_list:
+        if x > 0:
+            P = max([N[0] + 1, N[1] + x], P)
+        else:
+            N = max([P[0] + 1, P[1] + x], N)
+
+    print(max(P, N)[1])
