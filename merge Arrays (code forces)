@@ -1,0 +1,19 @@
+n, k = map(int, input().split())
+lst1 = list(map(int, input().split()))
+lst2 = list(map(int, input().split()))
+i , j = 0, 0
+ans=[]
+while i < n and j < k:
+    if lst1[i] < lst2[j]:
+        ans.append(lst1[i])
+        i += 1
+    else:
+        ans.append(lst2[j])
+        j += 1
+while i < n:
+    ans.append(lst1[i])
+    i += 1
+while j < k:
+    ans.append(lst2[j])
+    j += 1
+print (*ans)
