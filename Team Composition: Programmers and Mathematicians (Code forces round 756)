@@ -1,0 +1,6 @@
+x = int(input())
+for i in range(x):
+    a , b = map(int, input().split())
+    m =(a + b ) //4
+    y = min(a,b)
+    print(min(y,m))
