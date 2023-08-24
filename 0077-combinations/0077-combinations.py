@@ -1,22 +1,21 @@
 class Solution:
     def combine(self, n: int, k: int) -> List[List[int]]:
-        nums = [num for num in range(1, n+1)]
-        combinations = []
-
-        def backtrack(i, combination):
-            if len(combination) == k:
-                combinations.append(combination[:])  
+        def backtrack(curr, first_num):
+            if len(curr) == k:
+                ans.append(curr[:])
                 return
 
-            if i >= n:
-                return
+            need = k - len(curr)
+            remain = n - first_num + 1
+            available = remain - need
+            
+            for num in range(first_num, first_num + available + 1):
+                curr.append(num)
+                backtrack(curr, num + 1)
+                curr.pop()
 
-           
-            combination.append(nums[i])
-            backtrack(i+1, combination)  
-            combination.pop() 
-       
-            backtrack(i+1, combination)
-
-        backtrack(0, [])  
-        return combinations
+            return
+        
+        ans = []
+        backtrack([], 1)
+        return ans
