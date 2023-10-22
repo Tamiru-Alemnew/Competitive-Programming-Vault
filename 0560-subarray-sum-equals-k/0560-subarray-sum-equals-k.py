@@ -1,16 +1,12 @@
 class Solution:
     def subarraySum(self, nums: List[int], k: int) -> int:
-        ps, cnt, curr_sum = [0], 0, 0
+        cur , res = 0 , 0 
+
+        ps_count = {0:1}
 
         for num in nums:
-            curr_sum += num
-            ps.append(curr_sum)
-
-        sums_count = {}
-        for i in range(len(ps)):
-            if ps[i] - k in sums_count:
-                cnt += sums_count[ps[i] - k]
-
-            sums_count[ps[i]] = sums_count.get(ps[i], 0) + 1
-
-        return cnt
+            cur += num 
+            if cur - k in ps_count:
+                res += ps_count[cur-k]
+            ps_count[cur] = ps_count.get(cur, 0) + 1
+        return res
