@@ -2,7 +2,7 @@
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
-<pre style="position: relative;"><strong>Input:</strong> nums = [3,1,2,2,2,1,3], k = 2
+<pre><strong>Input:</strong> nums = [3,1,2,2,2,1,3], k = 2
 <strong>Output:</strong> 4
 <strong>Explanation:</strong>
 There are 4 pairs that meet all the requirements:
@@ -10,14 +10,14 @@ There are 4 pairs that meet all the requirements:
 - nums[2] == nums[3], and 2 * 3 == 6, which is divisible by 2.
 - nums[2] == nums[4], and 2 * 4 == 8, which is divisible by 2.
 - nums[3] == nums[4], and 3 * 4 == 12, which is divisible by 2.
-<div class="open_grepper_editor" title="Edit &amp; Save To Grepper"></div></pre>
+</pre>
 
 <p><strong class="example">Example 2:</strong></p>
 
-<pre style="position: relative;"><strong>Input:</strong> nums = [1,2,3,4], k = 1
+<pre><strong>Input:</strong> nums = [1,2,3,4], k = 1
 <strong>Output:</strong> 0
 <strong>Explanation:</strong> Since no value in nums is repeated, there are no pairs (i,j) that meet all the requirements.
-<div class="open_grepper_editor" title="Edit &amp; Save To Grepper"></div></pre>
+</pre>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
