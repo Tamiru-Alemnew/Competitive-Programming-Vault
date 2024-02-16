@@ -1,17 +1,17 @@
 class Solution:
     def minAddToMakeValid(self, s: str) -> int:
-        open = []
-        cl = 0 
+        open = 0
+        close = 0 
 
         for c in s:
             if c =="(":
-                open.append(c)
+                open += 1
             else:
-                if len(open) > 0:
-                    open.pop()
+                if open > 0:
+                    open -= 1
                 else:
-                    cl += 1
+                    close += 1
 
-        return cl + len(open)
+        return close + open
 
         
