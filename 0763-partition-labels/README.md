@@ -7,19 +7,19 @@
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
-<pre style="position: relative;"><strong>Input:</strong> s = "ababcbacadefegdehijhklij"
+<pre><strong>Input:</strong> s = "ababcbacadefegdehijhklij"
 <strong>Output:</strong> [9,7,8]
 <strong>Explanation:</strong>
 The partition is "ababcbaca", "defegde", "hijhklij".
 This is a partition so that each letter appears in at most one part.
 A partition like "ababcbacadefegde", "hijhklij" is incorrect, because it splits s into less parts.
-<div class="open_grepper_editor" title="Edit &amp; Save To Grepper"></div></pre>
+</pre>
 
 <p><strong class="example">Example 2:</strong></p>
 
-<pre style="position: relative;"><strong>Input:</strong> s = "eccbbbbdec"
+<pre><strong>Input:</strong> s = "eccbbbbdec"
 <strong>Output:</strong> [10]
-<div class="open_grepper_editor" title="Edit &amp; Save To Grepper"></div></pre>
+</pre>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
