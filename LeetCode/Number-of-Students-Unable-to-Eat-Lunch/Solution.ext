@@ -1,0 +1,29 @@
+class Solution:
+    def countStudents(self, students: List[int], sandwiches: List[int]) -> int:
+        
+        count = Counter(students)
+        circle = count[0]
+        square = count[1]
+        queue = deque(students)
+        l = 0 
+        st =  0
+        while True:
+            cur = queue.popleft()
+            
+            if cur == sandwiches[l]:
+                circle -= cur == 0
+                square -= cur == 1
+                st += 1
+                l += 1
+            else:
+                queue.append(cur)
+        
+            
+            if l == len(sandwiches) or circle == 0 and sandwiches[l] == 0 :
+                break
+                
+            elif square == 0 and sandwiches[l] == 1:
+                break
+            
+                
+        return len(students) - st
