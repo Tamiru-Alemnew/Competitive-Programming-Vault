@@ -1,0 +1,7 @@
+Input: word = "aba"
+Output: 4
+Explanation: The four wonderful substrings are underlined below:
+- "aba" -> "a"
+- "aba" -> "b"
+- "aba" -> "a"
+- "aba" -> "aba"
