@@ -1,0 +1,7 @@
+Input: divisor1 = 2, divisor2 = 7, uniqueCnt1 = 1, uniqueCnt2 = 3
+Output: 4
+Explanation: 
+We can distribute the first 4 natural numbers into arr1 and arr2.
+arr1 = [1] and arr2 = [2,3,4].
+We can see that both arrays satisfy all the conditions.
+Since the maximum value is 4, we return it.
