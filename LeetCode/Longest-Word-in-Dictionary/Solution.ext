@@ -1,0 +1,3 @@
+Input: words = ["w","wo","wor","worl","world"]
+Output: "world"
+Explanation: The word "world" can be built one character at a time by "w", "wo", "wor", and "worl".
