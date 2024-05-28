@@ -1,0 +1,13 @@
+Input: nums = [1,4]
+Output: 5
+Explanation: 
+The triplets and their corresponding effective values are listed below:
+- (0,0,0) with effective value ((1 | 1) & 1) = 1
+- (0,0,1) with effective value ((1 | 1) & 4) = 0
+- (0,1,0) with effective value ((1 | 4) & 1) = 1
+- (0,1,1) with effective value ((1 | 4) & 4) = 4
+- (1,0,0) with effective value ((4 | 1) & 1) = 1
+- (1,0,1) with effective value ((4 | 1) & 4) = 4
+- (1,1,0) with effective value ((4 | 4) & 1) = 0
+- (1,1,1) with effective value ((4 | 4) & 4) = 4 
+Xor-beauty of array will be bitwise XOR of all beauties = 1 ^ 0 ^ 1 ^ 4 ^ 1 ^ 4 ^ 0 ^ 4 = 5.
