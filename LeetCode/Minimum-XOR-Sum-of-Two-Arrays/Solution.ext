@@ -1,0 +1,4 @@
+Input: nums1 = [1,2], nums2 = [2,3]
+Output: 2
+Explanation: Rearrange nums2 so that it becomes [3,2].
+The XOR sum is (1 XOR 3) + (2 XOR 2) = 2 + 0 = 2.
