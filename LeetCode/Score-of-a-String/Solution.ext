@@ -1,0 +1,11 @@
+class Solution:
+    def scoreOfString(self, s: str) -> int:
+        ans = 0
+        prev = ord(s[0])
+        for a in s[1:]:
+            ans += abs(ord(a) - prev)
+            prev = ord(a)
+
+        return ans 
+            
+        
