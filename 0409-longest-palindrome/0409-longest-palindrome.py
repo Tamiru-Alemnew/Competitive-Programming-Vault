@@ -1,14 +1,17 @@
 class Solution:
     def longestPalindrome(self, s: str) -> int:
-        freq = defaultdict(int)
+        count = Counter(s)
+        ans = 0 
+        flag = True
+        for c in count.values():
 
-        for c in s:
-            freq[c] += 1
+            if c & 1 and flag:
+                ans += c
+                flag = False
+            elif not c & 1:
+                ans += c
 
-        ans = 0
-        for c in set(s):
-            ans += (freq[c] // 2) * 2
+        return ans 
 
-        return ans + 1 if len(s) > ans and ans % 2 ==  0 else ans 
 
         
