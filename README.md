@@ -37,6 +37,7 @@
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/1207-delete-nodes-and-return-forest) |
+| [2472-build-a-matrix-with-conditions](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/2472-build-a-matrix-with-conditions) |
 ## Hash Table
 |  |
 | ------- |
@@ -92,8 +93,17 @@
 |  |
 | ------- |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/2171-second-minimum-time-to-reach-destination) |
+| [2472-build-a-matrix-with-conditions](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/2472-build-a-matrix-with-conditions) |
 ## Shortest Path
 |  |
 | ------- |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/2171-second-minimum-time-to-reach-destination) |
+## Topological Sort
+|  |
+| ------- |
+| [2472-build-a-matrix-with-conditions](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/2472-build-a-matrix-with-conditions) |
+## Matrix
+|  |
+| ------- |
+| [2472-build-a-matrix-with-conditions](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/2472-build-a-matrix-with-conditions) |
 <!---LeetCode Topics End-->
