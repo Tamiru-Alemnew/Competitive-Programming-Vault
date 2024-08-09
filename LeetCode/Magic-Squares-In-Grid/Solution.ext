@@ -1,0 +1,86 @@
+class Solution:
+    def numMagicSquaresInside(self, grid: List[List[int]]) -> int:
+        
+        def isDistinict( r , c):
+            check = set()
+            for row in range(3):
+                for col in range(3):
+                    check.add(grid[r-row][c-col])
+
+            if len(check) < 9:
+                return False
+            else :
+                for i in range(1 , 10):
+                    if i not in check:
+                        return False
+
+            return True
+
+        def rowCol(r , c):
+            addD = 0 
+            subD = 0 
+            row = [0]*3
+            col = [0]*3
+            for rr in range(r-2 , r +1):
+                for cc in range(c -2  , c+ 1):
+                    row[rr%3] += grid[rr][cc]
+                    col[cc%3] += grid[rr][cc]
+                    if rr + cc == r + c -2:
+                        addD +=  grid[rr][cc]
+                    
+                    if rr - cc == r -c :
+                        subD +=   grid[rr][cc]
+
+
+            return row , col , addD , subD
+
+
+        addD = 0
+        subD = 0
+        rows= [0]*3
+        cols = [0]*3
+
+        if len(grid[0]) < 3 or len(grid) < 3:
+            return 0
+
+        for r in range(3):
+            for c in range(3):
+                if r - c == 0:
+                    subD += grid[r][c]
+                if r + c == 2: 
+                    addD += grid[r][c]
+
+                rows[r] += grid[r][c]
+                cols[c] += grid[r][c]
+
+        ans = 0
+
+        if isDistinict(2 , 2) and addD == subD :
+            for rw in rows:
+                if rw != addD:
+                    break
+            else:
+                for cl in cols:
+                    if cl != addD:
+                        break
+                else:
+                    ans += 1
+
+
+        for r in range(2 , len(grid)):
+            for c in range(2 , len(grid)):
+                row , col , addD , subD = rowCol(r , c)
+                print(row , col , addD , subD , r , c)
+                if isDistinict(r , c) and addD == subD and (r != 2 or c != 2):
+                    for rw in row:
+                        if rw != addD:
+                            break
+                    else:
+                        for cl in col:
+                            if cl != addD:
+                                break
+                        else:
+                            ans += 1
+
+        return ans
+                
