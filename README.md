@@ -35,6 +35,7 @@
 ## Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/0040-combination-sum-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/1207-delete-nodes-and-return-forest) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/2472-build-a-matrix-with-conditions) |
@@ -106,4 +107,8 @@
 |  |
 | ------- |
 | [2472-build-a-matrix-with-conditions](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/2472-build-a-matrix-with-conditions) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
