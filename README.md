@@ -42,6 +42,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/0726-number-of-atoms) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/1207-delete-nodes-and-return-forest) |
@@ -61,6 +62,7 @@
 ## Math
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/0264-ugly-number-ii) |
 | [2645-pass-the-pillow](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/2645-pass-the-pillow) |
 ## Simulation
 |  |
@@ -111,4 +113,12 @@
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/0040-combination-sum-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/0264-ugly-number-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/0264-ugly-number-ii) |
 <!---LeetCode Topics End-->
