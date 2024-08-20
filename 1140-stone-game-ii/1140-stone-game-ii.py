@@ -8,7 +8,7 @@ class Solution:
             ps[i+1] = piles[i] + ps[i]
 
        
-        @cache
+        
         def dp(m , l):
             if l >= len((ps)):
                 return 0
