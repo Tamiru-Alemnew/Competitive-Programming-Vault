@@ -38,6 +38,7 @@
 | [0040-combination-sum-ii](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/0040-combination-sum-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/1207-delete-nodes-and-return-forest) |
+| [1240-stone-game-ii](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/1240-stone-game-ii) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/2472-build-a-matrix-with-conditions) |
 ## Hash Table
 |  |
@@ -63,6 +64,7 @@
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/0264-ugly-number-ii) |
+| [1240-stone-game-ii](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/1240-stone-game-ii) |
 | [2645-pass-the-pillow](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/2645-pass-the-pillow) |
 ## Simulation
 |  |
@@ -117,8 +119,17 @@
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/0264-ugly-number-ii) |
+| [1240-stone-game-ii](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/1240-stone-game-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/0264-ugly-number-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/1240-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/1240-stone-game-ii) |
 <!---LeetCode Topics End-->
