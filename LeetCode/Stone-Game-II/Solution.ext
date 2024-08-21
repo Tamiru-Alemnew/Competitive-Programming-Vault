@@ -1,3 +1,33 @@
-Input: piles = [2,7,9,4,4]
-Output: 10
-Explanation:  If Alice takes one pile at the beginning, Bob takes two piles, then Alice takes 2 piles again. Alice can get 2 + 4 + 4 = 10 piles in total. If Alice takes two piles at the beginning, then Bob can take all three piles left. In this case, Alice get 2 + 7 = 9 piles in total. So we return 10 since it's larger. 
+class Solution:
+    def stoneGameII(self, piles: List[int]) -> int:
+        
+        ps = [0]*(len(piles) + 1)
+        ps[1] = piles[0]
+
+        for i in range(1 , len(piles)):
+            ps[i+1] = piles[i] + ps[i]
+
+       
+        @cache
+        def dp(m , l):
+            if l >= len((ps)):
+                return 0
+
+
+            cur = float("-inf")
+
+            for r in range(l , min(l+2*m , len(ps))):
+                next  = ps[r] - ps[l - 1] - dp(max(m , r - l + 1) , r + 1)
+                cur = max(cur , next)
+
+
+            return cur 
+
+    
+        bob = (ps[-1] - dp(1 , 1)) // 2
+
+        return ps[-1] - bob
+
+
+
+        
