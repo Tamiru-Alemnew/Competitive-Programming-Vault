@@ -1,22 +1,19 @@
 class Solution:
     def intervalIntersection(self, firstList: List[List[int]], secondList: List[List[int]]) -> List[List[int]]:
-        if firstList == [] or secondList == []:
-            return []
+        first = 0 
+        second = 0 
+        ans = []
 
-        res = []
-        i, j = 0, 0
+        while first < len(firstList) and second < len(secondList):
+            a = max(firstList[first][0] , secondList[second][0])
+            b = min(firstList[first][1] , secondList[second][1]) 
 
-        while i < len(firstList) and j < len(secondList):
-            l = max(firstList[i][0], secondList[j][0])
-            r = min(firstList[i][1], secondList[j][1])
+            if b == firstList[first][1] :
+                first += 1
 
-            if l <= r :
-                res.append([l, r])
+            if b == secondList[second][1]:
+                second += 1
+            if b >= a :
+                ans.append([a , b])
+        return ans 
 
-            if firstList[i][1] < secondList[j][1]:
-                i += 1
-
-            else:
-                j += 1        
-
-        return res
