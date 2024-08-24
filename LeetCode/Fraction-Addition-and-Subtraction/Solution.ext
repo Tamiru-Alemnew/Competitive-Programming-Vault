@@ -1,2 +1,41 @@
-Input: expression = "-1/2+1/2"
-Output: "0/1"
+class Solution:
+    def fractionAddition(self, expression: str) -> str:
+
+        normalized = []
+        cur = []
+        negative = False
+
+        for r in range(len(expression)):
+            if expression[r] in ["/" , "+" , "-"]:
+                if cur:
+                    if not negative :
+                        normalized.append(int("".join(cur[:])))
+                    else:
+                        normalized.append(-int("".join(cur[:])))
+                    cur = []
+
+                negative = expression[r] == "-"
+
+            else:
+                cur.append(expression[r])
+
+        if cur:
+            if not negative :
+                normalized.append(int("".join(cur[:])))
+            else:
+                normalized.append(-int("".join(cur[:])))
+
+        prevU = normalized[0]
+        prevL = normalized[1]
+        print(normalized)
+        for l in range(2,len(normalized) -1, 2):
+            temp = prevL
+            prevL *= normalized[l+1]
+            prevU = prevU*normalized[l+1] + temp*normalized[l]
+
+        temp = prevU
+        prevU =prevU // math.gcd(prevU , prevL)
+        prevL = prevL // math.gcd(temp, prevL)
+        
+        return "".join([str(prevU) ,"/" , str(prevL)])
+        
