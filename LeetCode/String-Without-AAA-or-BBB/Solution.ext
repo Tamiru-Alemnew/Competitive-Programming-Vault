@@ -1,0 +1,3 @@
+Input: a = 1, b = 2
+Output: "abb"
+Explanation: "abb", "bab" and "bba" are all correct answers.
