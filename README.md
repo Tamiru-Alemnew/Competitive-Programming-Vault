@@ -51,6 +51,7 @@
 | [0264-ugly-number-ii](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/0726-number-of-atoms) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/1207-delete-nodes-and-return-forest) |
 ## Two Pointers
 |  |
@@ -92,6 +93,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/1207-delete-nodes-and-return-forest) |
 ## Binary Tree
 |  |
@@ -104,6 +106,7 @@
 ## Graph
 |  |
 | ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/1325-path-with-maximum-probability) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/2472-build-a-matrix-with-conditions) |
@@ -143,4 +146,8 @@
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/1240-stone-game-ii) |
+## Union Find
+|  |
+| ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 <!---LeetCode Topics End-->
