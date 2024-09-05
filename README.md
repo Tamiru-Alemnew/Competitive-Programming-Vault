@@ -37,6 +37,7 @@
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/0041-first-missing-positive) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0300-longest-increasing-subsequence](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1028-interval-list-intersections](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/1028-interval-list-intersections) |
@@ -89,6 +90,7 @@
 ## Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/1207-delete-nodes-and-return-forest) |
 ## Depth-First Search
 |  |
@@ -98,6 +100,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/1207-delete-nodes-and-return-forest) |
 ## Breadth-First Search
 |  |
@@ -150,4 +153,12 @@
 |  |
 | ------- |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
