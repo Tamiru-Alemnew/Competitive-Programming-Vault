@@ -44,6 +44,7 @@
 | [1207-delete-nodes-and-return-forest](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/1207-delete-nodes-and-return-forest) |
 | [1240-stone-game-ii](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/1240-stone-game-ii) |
 | [1325-path-with-maximum-probability](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/1325-path-with-maximum-probability) |
+| [2411-spiral-matrix-iv](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/2472-build-a-matrix-with-conditions) |
 ## Hash Table
 |  |
@@ -78,6 +79,7 @@
 ## Simulation
 |  |
 | ------- |
+| [2411-spiral-matrix-iv](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/2411-spiral-matrix-iv) |
 | [2645-pass-the-pillow](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/2645-pass-the-pillow) |
 ## String
 |  |
@@ -125,6 +127,7 @@
 ## Matrix
 |  |
 | ------- |
+| [2411-spiral-matrix-iv](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/2472-build-a-matrix-with-conditions) |
 ## Backtracking
 |  |
@@ -161,4 +164,8 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Linked List
+|  |
+| ------- |
+| [2411-spiral-matrix-iv](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/2411-spiral-matrix-iv) |
 <!---LeetCode Topics End-->
