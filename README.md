@@ -138,6 +138,7 @@
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/0300-longest-increasing-subsequence) |
+| [0338-counting-bits](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/0338-counting-bits) |
 | [1240-stone-game-ii](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/1240-stone-game-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -168,4 +169,8 @@
 |  |
 | ------- |
 | [2411-spiral-matrix-iv](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/2411-spiral-matrix-iv) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
