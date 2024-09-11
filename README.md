@@ -40,6 +40,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0300-longest-increasing-subsequence](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0648-replace-words](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/0648-replace-words) |
 | [1028-interval-list-intersections](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/1028-interval-list-intersections) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/1207-delete-nodes-and-return-forest) |
 | [1240-stone-game-ii](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/1240-stone-game-ii) |
@@ -52,6 +53,7 @@
 | [0041-first-missing-positive](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/0041-first-missing-positive) |
 | [0264-ugly-number-ii](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0648-replace-words](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/0648-replace-words) |
 | [0726-number-of-atoms](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/0726-number-of-atoms) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/1207-delete-nodes-and-return-forest) |
@@ -84,6 +86,7 @@
 ## String
 |  |
 | ------- |
+| [0648-replace-words](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/0648-replace-words) |
 | [0726-number-of-atoms](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/0726-number-of-atoms) |
 ## Stack
 |  |
@@ -173,4 +176,8 @@
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/0338-counting-bits) |
+## Trie
+|  |
+| ------- |
+| [0648-replace-words](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/0648-replace-words) |
 <!---LeetCode Topics End-->
