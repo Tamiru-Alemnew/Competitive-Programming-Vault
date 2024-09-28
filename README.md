@@ -41,6 +41,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0648-replace-words](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/0648-replace-words) |
+| [0859-design-circular-deque](https://github.com/Tamiru-Alemnew/Competitive-Programming-Vault/tree/master/0859-design-circular-deque) |
 | [1028-interval-list-intersections](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/1028-interval-list-intersections) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/1207-delete-nodes-and-return-forest) |
 | [1240-stone-game-ii](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/1240-stone-game-ii) |
@@ -171,6 +172,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0859-design-circular-deque](https://github.com/Tamiru-Alemnew/Competitive-Programming-Vault/tree/master/0859-design-circular-deque) |
 | [2411-spiral-matrix-iv](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/2411-spiral-matrix-iv) |
 ## Bit Manipulation
 |  |
@@ -180,4 +182,12 @@
 |  |
 | ------- |
 | [0648-replace-words](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/0648-replace-words) |
+## Design
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/Tamiru-Alemnew/Competitive-Programming-Vault/tree/master/0859-design-circular-deque) |
+## Queue
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/Tamiru-Alemnew/Competitive-Programming-Vault/tree/master/0859-design-circular-deque) |
 <!---LeetCode Topics End-->
