@@ -1,11 +1,15 @@
+from bisect import bisect_left
 class Solution:
     def lengthOfLIS(self, arr: List[int]) -> int:
-        dp = [1 for i in range(len(arr))]
-        ans = 1
-        for i in range(len(arr)):
-            for j in range(i):
-                if arr[i] > arr[j]:
-                    dp[i] = max(dp[i] , dp[j] + 1)
-                    ans = max(ans ,dp[i])
+        min_subs = []
+        for n in arr:
+            ind = bisect_left(min_subs , n)
 
-        return ans
+            if ind == len(min_subs):
+                min_subs.append(n)
+            else:
+                min_subs[ind] = n 
+
+        return len(min_subs)
+
+
