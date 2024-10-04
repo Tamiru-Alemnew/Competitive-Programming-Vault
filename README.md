@@ -48,6 +48,7 @@
 | [1325-path-with-maximum-probability](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/1325-path-with-maximum-probability) |
 | [2411-spiral-matrix-iv](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/2472-build-a-matrix-with-conditions) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Tamiru-Alemnew/Competitive-Programming-Vault/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Hash Table
 |  |
 | ------- |
@@ -58,11 +59,13 @@
 | [0726-number-of-atoms](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/0726-number-of-atoms) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/1207-delete-nodes-and-return-forest) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Tamiru-Alemnew/Competitive-Programming-Vault/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Two Pointers
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1028-interval-list-intersections](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/1028-interval-list-intersections) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Tamiru-Alemnew/Competitive-Programming-Vault/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Binary Search
 |  |
 | ------- |
@@ -73,6 +76,7 @@
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/0726-number-of-atoms) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Tamiru-Alemnew/Competitive-Programming-Vault/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Math
 |  |
 | ------- |
