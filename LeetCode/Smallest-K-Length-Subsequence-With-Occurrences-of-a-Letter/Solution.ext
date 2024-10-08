@@ -1,0 +1,8 @@
+Input: s = "leet", k = 3, letter = "e", repetition = 1
+Output: "eet"
+Explanation: There are four subsequences of length 3 that have the letter 'e' appear at least 1 time:
+- "lee" (from "leet")
+- "let" (from "leet")
+- "let" (from "leet")
+- "eet" (from "leet")
+The lexicographically smallest subsequence among them is "eet".
