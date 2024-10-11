@@ -1,20 +1,27 @@
 class Solution:
     def minDifference(self, nums: List[int]) -> int:
-        nums.sort()
+        partial_min = [float('-inf')]*4
+        partial_max =[float('-inf')]*4
 
-        """
-        1 2 3 4 5 6 7 8 
-        !       !
-          !       !
-            !       ! 
-              !       !
-
-              
-        """
         if len(nums) <= 4:
-            return 0 
+            return 0
+
+        for n in nums:
+            if -partial_min[0] > n:
+                heappop(partial_min)
+                heappush(partial_min , -n)
+
+            if partial_max[0] < n :
+                heappop(partial_max)
+                heappush(partial_max , n)
+
+        ans = float("inf")
+
+        largest = sorted([x for x in partial_max])
+        smallest = sorted([-x for x in partial_min])
+
+        for i in range(4):
+            ans = min(ans , largest[i] - smallest[i])
+
+        return ans
             
-        return min(nums[-4] - nums[0],
-                    nums[-3] - nums[1] , 
-                    nums[-2] - nums[2],
-                    nums[-1] - nums[3])
