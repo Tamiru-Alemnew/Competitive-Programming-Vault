@@ -46,6 +46,7 @@
 | [1207-delete-nodes-and-return-forest](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/1207-delete-nodes-and-return-forest) |
 | [1240-stone-game-ii](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/1240-stone-game-ii) |
 | [1325-path-with-maximum-probability](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/1325-path-with-maximum-probability) |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Tamiru-Alemnew/Competitive-Programming-Vault/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2411-spiral-matrix-iv](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/2472-build-a-matrix-with-conditions) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Tamiru-Alemnew/Competitive-Programming-Vault/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -76,6 +77,7 @@
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/0726-number-of-atoms) |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Tamiru-Alemnew/Competitive-Programming-Vault/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Tamiru-Alemnew/Competitive-Programming-Vault/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Math
 |  |
@@ -206,4 +208,5 @@
 |  |
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Tamiru-Alemnew/Competitive-Programming-Vault/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Tamiru-Alemnew/Competitive-Programming-Vault/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 <!---LeetCode Topics End-->
