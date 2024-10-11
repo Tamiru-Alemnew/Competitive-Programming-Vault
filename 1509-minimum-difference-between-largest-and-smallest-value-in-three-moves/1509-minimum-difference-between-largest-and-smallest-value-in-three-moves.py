@@ -16,12 +16,14 @@ class Solution:
                 heappush(partial_max , n)
 
         ans = float("inf")
-
-        largest = sorted([x for x in partial_max])
-        smallest = sorted([-x for x in partial_min])
+        for n in range(4):
+            mn = heappop(partial_min)
+            heappush(partial_min , -mn)
 
         for i in range(4):
-            ans = min(ans , largest[i] - smallest[i])
+            mn = heappop(partial_min)
+            mx = heappop(partial_max)
+            ans = min(ans , abs(mx - mn))
 
         return ans
             
