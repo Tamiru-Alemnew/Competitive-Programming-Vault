@@ -13,7 +13,6 @@ class Solution:
                 if i -a >= 0 :
                     dp[i] = dp[i] or dp[i-a]
 
-        print(dp)
         return dp[md]
 
 
