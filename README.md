@@ -40,6 +40,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0300-longest-increasing-subsequence](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/Tamiru-Alemnew/Competitive-Programming-Vault/tree/master/0416-partition-equal-subset-sum) |
 | [0648-replace-words](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/0648-replace-words) |
 | [0859-design-circular-deque](https://github.com/Tamiru-Alemnew/Competitive-Programming-Vault/tree/master/0859-design-circular-deque) |
 | [1028-interval-list-intersections](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/1028-interval-list-intersections) |
@@ -155,6 +156,7 @@
 | [0264-ugly-number-ii](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/0338-counting-bits) |
+| [0416-partition-equal-subset-sum](https://github.com/Tamiru-Alemnew/Competitive-Programming-Vault/tree/master/0416-partition-equal-subset-sum) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Tamiru-Alemnew/Competitive-Programming-Vault/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1240-stone-game-ii](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/1240-stone-game-ii) |
 ## Heap (Priority Queue)
