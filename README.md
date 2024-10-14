@@ -97,6 +97,7 @@
 ## String
 |  |
 | ------- |
+| [0482-license-key-formatting](https://github.com/Tamiru-Alemnew/Competitive-Programming-Vault/tree/master/0482-license-key-formatting) |
 | [0648-replace-words](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/0648-replace-words) |
 | [0726-number-of-atoms](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/0726-number-of-atoms) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Tamiru-Alemnew/Competitive-Programming-Vault/tree/master/0957-minimum-add-to-make-parentheses-valid) |
