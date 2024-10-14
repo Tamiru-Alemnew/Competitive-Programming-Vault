@@ -43,6 +43,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/Tamiru-Alemnew/Competitive-Programming-Vault/tree/master/0416-partition-equal-subset-sum) |
 | [0648-replace-words](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/0648-replace-words) |
 | [0859-design-circular-deque](https://github.com/Tamiru-Alemnew/Competitive-Programming-Vault/tree/master/0859-design-circular-deque) |
+| [1014-k-closest-points-to-origin](https://github.com/Tamiru-Alemnew/Competitive-Programming-Vault/tree/master/1014-k-closest-points-to-origin) |
 | [1028-interval-list-intersections](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/1028-interval-list-intersections) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/1207-delete-nodes-and-return-forest) |
 | [1240-stone-game-ii](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/1240-stone-game-ii) |
@@ -78,12 +79,14 @@
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/0726-number-of-atoms) |
+| [1014-k-closest-points-to-origin](https://github.com/Tamiru-Alemnew/Competitive-Programming-Vault/tree/master/1014-k-closest-points-to-origin) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Tamiru-Alemnew/Competitive-Programming-Vault/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Tamiru-Alemnew/Competitive-Programming-Vault/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Math
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/0264-ugly-number-ii) |
+| [1014-k-closest-points-to-origin](https://github.com/Tamiru-Alemnew/Competitive-Programming-Vault/tree/master/1014-k-closest-points-to-origin) |
 | [1240-stone-game-ii](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/1240-stone-game-ii) |
 | [2645-pass-the-pillow](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/2645-pass-the-pillow) |
 ## Simulation
@@ -164,6 +167,7 @@
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/0264-ugly-number-ii) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Tamiru-Alemnew/Competitive-Programming-Vault/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1014-k-closest-points-to-origin](https://github.com/Tamiru-Alemnew/Competitive-Programming-Vault/tree/master/1014-k-closest-points-to-origin) |
 | [1325-path-with-maximum-probability](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/1325-path-with-maximum-probability) |
 ## Prefix Sum
 |  |
@@ -181,6 +185,7 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1014-k-closest-points-to-origin](https://github.com/Tamiru-Alemnew/Competitive-Programming-Vault/tree/master/1014-k-closest-points-to-origin) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -211,4 +216,12 @@
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Tamiru-Alemnew/Competitive-Programming-Vault/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Tamiru-Alemnew/Competitive-Programming-Vault/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/Tamiru-Alemnew/Competitive-Programming-Vault/tree/master/1014-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/Tamiru-Alemnew/Competitive-Programming-Vault/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
