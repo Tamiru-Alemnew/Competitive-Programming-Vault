@@ -86,6 +86,7 @@
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/0264-ugly-number-ii) |
+| [0670-maximum-swap](https://github.com/Tamiru-Alemnew/Competitive-Programming-Vault/tree/master/0670-maximum-swap) |
 | [1014-k-closest-points-to-origin](https://github.com/Tamiru-Alemnew/Competitive-Programming-Vault/tree/master/1014-k-closest-points-to-origin) |
 | [1240-stone-game-ii](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/1240-stone-game-ii) |
 | [2645-pass-the-pillow](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/2645-pass-the-pillow) |
@@ -215,6 +216,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0670-maximum-swap](https://github.com/Tamiru-Alemnew/Competitive-Programming-Vault/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Tamiru-Alemnew/Competitive-Programming-Vault/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Tamiru-Alemnew/Competitive-Programming-Vault/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Geometry
