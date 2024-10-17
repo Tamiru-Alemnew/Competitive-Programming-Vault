@@ -12,7 +12,6 @@ class Solution:
             if int(num[position[i]]) <= int(num[position[i+1]]):
                 position[i] = position[i+1]
 
-        print(position)
         for i in range(len(num)):
             if int(num[i]) < int(num[position[i]]):
 
