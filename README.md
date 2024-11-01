@@ -48,6 +48,7 @@
 | [1207-delete-nodes-and-return-forest](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/1207-delete-nodes-and-return-forest) |
 | [1240-stone-game-ii](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/1240-stone-game-ii) |
 | [1325-path-with-maximum-probability](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/1325-path-with-maximum-probability) |
+| [1582-design-browser-history](https://github.com/Tamiru-Alemnew/Competitive-Programming-Vault/tree/master/1582-design-browser-history) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Tamiru-Alemnew/Competitive-Programming-Vault/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2411-spiral-matrix-iv](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/2472-build-a-matrix-with-conditions) |
@@ -107,6 +108,7 @@
 | ------- |
 | [0726-number-of-atoms](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/0726-number-of-atoms) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Tamiru-Alemnew/Competitive-Programming-Vault/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1582-design-browser-history](https://github.com/Tamiru-Alemnew/Competitive-Programming-Vault/tree/master/1582-design-browser-history) |
 ## Tree
 |  |
 | ------- |
@@ -196,6 +198,7 @@
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/Tamiru-Alemnew/Competitive-Programming-Vault/tree/master/0859-design-circular-deque) |
+| [1582-design-browser-history](https://github.com/Tamiru-Alemnew/Competitive-Programming-Vault/tree/master/1582-design-browser-history) |
 | [2411-spiral-matrix-iv](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/2411-spiral-matrix-iv) |
 ## Bit Manipulation
 |  |
@@ -209,6 +212,7 @@
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/Tamiru-Alemnew/Competitive-Programming-Vault/tree/master/0859-design-circular-deque) |
+| [1582-design-browser-history](https://github.com/Tamiru-Alemnew/Competitive-Programming-Vault/tree/master/1582-design-browser-history) |
 ## Queue
 |  |
 | ------- |
@@ -227,4 +231,12 @@
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/Tamiru-Alemnew/Competitive-Programming-Vault/tree/master/1014-k-closest-points-to-origin) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/Tamiru-Alemnew/Competitive-Programming-Vault/tree/master/1582-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/Tamiru-Alemnew/Competitive-Programming-Vault/tree/master/1582-design-browser-history) |
 <!---LeetCode Topics End-->
