@@ -43,6 +43,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/Tamiru-Alemnew/Competitive-Programming-Vault/tree/master/0416-partition-equal-subset-sum) |
 | [0648-replace-words](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/0648-replace-words) |
 | [0859-design-circular-deque](https://github.com/Tamiru-Alemnew/Competitive-Programming-Vault/tree/master/0859-design-circular-deque) |
+| [1002-maximum-width-ramp](https://github.com/Tamiru-Alemnew/Competitive-Programming-Vault/tree/master/1002-maximum-width-ramp) |
 | [1014-k-closest-points-to-origin](https://github.com/Tamiru-Alemnew/Competitive-Programming-Vault/tree/master/1014-k-closest-points-to-origin) |
 | [1028-interval-list-intersections](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/1028-interval-list-intersections) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/1207-delete-nodes-and-return-forest) |
@@ -108,6 +109,7 @@
 | ------- |
 | [0726-number-of-atoms](https://github.com/Tamiru-Alemnew/competitive-programming-/tree/master/0726-number-of-atoms) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Tamiru-Alemnew/Competitive-Programming-Vault/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1002-maximum-width-ramp](https://github.com/Tamiru-Alemnew/Competitive-Programming-Vault/tree/master/1002-maximum-width-ramp) |
 | [1582-design-browser-history](https://github.com/Tamiru-Alemnew/Competitive-Programming-Vault/tree/master/1582-design-browser-history) |
 ## Tree
 |  |
@@ -239,4 +241,8 @@
 |  |
 | ------- |
 | [1582-design-browser-history](https://github.com/Tamiru-Alemnew/Competitive-Programming-Vault/tree/master/1582-design-browser-history) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1002-maximum-width-ramp](https://github.com/Tamiru-Alemnew/Competitive-Programming-Vault/tree/master/1002-maximum-width-ramp) |
 <!---LeetCode Topics End-->
