@@ -1,0 +1,10 @@
+Input: n = 4, preferences = [[1, 2, 3], [3, 2, 0], [3, 1, 0], [1, 2, 0]], pairs = [[0, 1], [2, 3]]
+Output: 2
+Explanation:
+Friend 1 is unhappy because:
+- 1 is paired with 0 but prefers 3 over 0, and
+- 3 prefers 1 over 2.
+Friend 3 is unhappy because:
+- 3 is paired with 2 but prefers 1 over 2, and
+- 1 prefers 3 over 0.
+Friends 0 and 2 are happy.
